@@ -1,0 +1,9 @@
+newsletter:
+  date: '25-01-01'
+  from: 'ilie.gurzun@gmail.com'
+  to:
+    - 'ilie.gurzun@emag.ro'
+  subject: 'Salut! ce faci?'
+  content: >
+    Salut,
+    Ce faci?
